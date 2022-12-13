@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(20px + 4vmin);
+  color: white;
+}
+
+.Page-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: palevioletred;
+}
+
+.pill {
+  background-color: #282c34;
+  font-weight: bold;
+}
+
+.input {
+  background-color: #282c34;
+  flex-direction: column;
+  align-items: left;
+  justify-content: left;
+  color: palevioletred;
+}
+
+.btn {
+  background-color: palevioletred;
+}
+
+body {
+  background-color:#282c34
+}
