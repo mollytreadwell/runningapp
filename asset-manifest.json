@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/runningapp/static/css/main.a5b8ffc6.css",
+    "main.js": "/runningapp/static/js/main.846cd275.js",
+    "static/js/787.6266b4f8.chunk.js": "/runningapp/static/js/787.6266b4f8.chunk.js",
+    "static/media/grouprun2.jpg": "/runningapp/static/media/grouprun2.2e5af4100701f6dd11bc.jpg",
+    "static/media/trailrun.jpg": "/runningapp/static/media/trailrun.6b776402402ccc3fd03a.jpg",
+    "static/media/usarace.png": "/runningapp/static/media/usarace.3fbe581b68b053c942f8.png",
+    "index.html": "/runningapp/index.html",
+    "main.a5b8ffc6.css.map": "/runningapp/static/css/main.a5b8ffc6.css.map",
+    "main.846cd275.js.map": "/runningapp/static/js/main.846cd275.js.map",
+    "787.6266b4f8.chunk.js.map": "/runningapp/static/js/787.6266b4f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5b8ffc6.css",
+    "static/js/main.846cd275.js"
+  ]
+}
